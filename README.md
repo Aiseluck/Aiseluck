@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Aiseluck/Aiseluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arasomwan Aisosa Goodluck, and I'm a lead full-stack blockchain developer at Avraq Inc. I have a strong background in back-end development, front-end development, database management, and cloud services.🔭
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back-end development: Solidity, Node.js, Express.js, Hardhat framework, Deep Understanding of Ethereum Virtual Machine
+- Front-end development: HTML, CSS, JavaScript, React, Next.js, Ethers.js, Wagmi tool
+- Database management: MySQL, MongoDB
+- Cloud services: Firebase
+
+## Experience
+
+As a lead full-stack blockchain developer at Avraq Inc., I've had the opportunity to work on a variety of projects, including:
+
+- Developing smart contracts using Solidity and deploying them on the Ethereum blockchain
+- Building web applications and Dapps using React, Next.js, and Express.js
+- Designing and managing databases using MySQL and MongoDB
+- Leveraging cloud services like Firebase to create scalable, secure applications
+
+## Contact
+
+If you're interested in working with me or just want to say hello, feel free to reach out to me [on Twitter](https://twitter.com/Aiseluck)
+
+Thanks for stopping by!
