@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Arasomwan Aisosa Goodluck, and I'm a lead full-stack blockchain developer at Avraq Inc. I have a strong background in back-end development, front-end development, database management, and cloud services.🔭
+My name is Arasomwan Aisosa Goodluck, and I'm the lead full-stack blockchain developer at Avraq Africa. I have a strong background in back-end development, front-end development, database management, and cloud services.🔭
 
 ## Skills
 
